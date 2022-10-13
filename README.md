@@ -1,6 +1,6 @@
 # Tp1 - Web de noticias
 
-Ejercicios numero 11 y 12 del tp1 de react. Se utilizó [React-Bootstrap](https://react-bootstrap.github.io/)
+Ejercicios numero 11 y 12 del tp1 de react. Se utilizó [React-Bootstrap](https://react-bootstrap.github.io/) y la API [OpenWeather](https://openweathermap.org/api)
 
 # Demo
 
