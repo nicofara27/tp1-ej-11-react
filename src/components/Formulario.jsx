@@ -5,7 +5,7 @@ import ListaNoticias from "./ListaNoticias";
 const Formulario = () => {
   const [categoria, setCategoria] = useState("");
   const [pais, setPais] = useState("");
-  const [url, setUrl] = useState("https://newsdata.io/api/1/news?apikey=pub_12037b6be7b90080cdd090890fa014ba33dfb&language=es");
+  const [url, setUrl] = useState("");
   const [noticias, setNoticias] = useState([]);
   
   const consultarAPI = async () => {
